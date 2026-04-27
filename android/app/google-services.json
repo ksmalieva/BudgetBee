@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304064985313",
+    "project_id": "budget-bee-app-9fda6",
+    "storage_bucket": "budget-bee-app-9fda6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304064985313:android:fd1cd2be73076ed95bdfa0",
+        "android_client_info": {
+          "package_name": "com.example.budget_bee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHND-CwpQRVJFtp0UrLSaWq23eEsHjgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
